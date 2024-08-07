@@ -1,0 +1,96 @@
+猫和老鼠 Tom and Jerry, 9.8,https://movie.douban.com/subject/4321270/
+瑞克和莫蒂 第一季 Rick and Morty Season 1, 9.7,https://movie.douban.com/subject/11537954/
+灌篮高手 スラムダンク, 9.7,https://movie.douban.com/subject/1998799/
+星际牛仔 カウボーイビバップ, 9.6,https://movie.douban.com/subject/1424406/
+哆啦A梦 ドラえもん, 9.6,https://movie.douban.com/subject/1782004/
+海贼王 ワンピース, 9.5,https://movie.douban.com/subject/1453238/
+银魂 銀魂, 9.6,https://movie.douban.com/subject/2057171/
+虹猫蓝兔七侠传, 9.6,https://movie.douban.com/subject/3204594/
+罗小黑战记, 9.5,https://movie.douban.com/subject/10477598/
+钢之炼金术师FA 鋼の錬金術師 FULLMETAL ALCHEMIST, 9.5,https://movie.douban.com/subject/3430169/
+强风吹拂 風が強く吹いている, 9.6,https://movie.douban.com/subject/30238385/
+灵能百分百 II モブサイコ100 II, 9.5,https://movie.douban.com/subject/27011763/
+夏目友人帐 夏目友人帳, 9.4,https://movie.douban.com/subject/3060542/
+新世纪福音战士 新世紀エヴァンゲリオン, 9.3,https://movie.douban.com/subject/1457573/
+一拳超人 ワンパンマン, 9.4,https://movie.douban.com/subject/26339248/
+排球少年 ハイキュー!!, 9.6,https://movie.douban.com/subject/25732103/
+奇巧计程车 オッドタクシー, 9.5,https://movie.douban.com/subject/35332568/
+数码宝贝 デジモンアドベンチャー, 9.5,https://movie.douban.com/subject/1970134/
+我的三体之章北海传, 9.6,https://movie.douban.com/subject/34892096/
+混沌武士 サムライチャンプルー, 9.5,https://movie.douban.com/subject/1460915/
+虫师 蟲師, 9.4,https://movie.douban.com/subject/1800597/
+JOJO的奇妙冒险 黄金之风 ジョジョの奇妙な冒険 黄金の風, 9.5,https://movie.douban.com/subject/27666505/
+齐木楠雄的灾难 斉木楠雄のΨ難, 9.4,https://movie.douban.com/subject/26801048/
+海绵宝宝 第一季 SpongeBob SquarePants Season 1, 9.5,https://movie.douban.com/subject/1456579/
+名侦探柯南 名探偵コナン, 9.2,https://movie.douban.com/subject/1463371/
+中华小子, 9.6,https://movie.douban.com/subject/2244765/
+爱，死亡和机器人 第一季 Love, Death & Robots Season 1, 9.2,https://movie.douban.com/subject/30424374/
+命运石之门 STEINS;GATE, 9.3,https://movie.douban.com/subject/4925398/
+月刊少女野崎君 月刊少女野崎くん, 9.3,https://movie.douban.com/subject/25850705/
+全职猎人 Hunter x Hunter, 9.5,https://movie.douban.com/subject/1460919/
+怪化猫 モノノ怪, 9.4,https://movie.douban.com/subject/2340927/
+七龙珠 ドラゴンボール, 9.4,https://movie.douban.com/subject/1782006/
+画江湖之不良人6, 9.4,https://movie.douban.com/subject/35801116/
+乒乓 ピンポン THE ANIMATION, 9.5,https://movie.douban.com/subject/25813424/
+葬送的芙莉莲 葬送のフリーレン, 9.5,https://movie.douban.com/subject/36093351/
+辉夜大小姐想让我告白：天才们的恋爱头脑战 第二季 かぐや様は告らせたい？～天才たちの恋愛頭脳戦～, 9.3,https://movie.douban.com/subject/33379634/
+约定的梦幻岛 約束のネバーランド, 9.3,https://movie.douban.com/subject/30206430/
+攻壳机动队 第一季 攻殻機動隊 STAND ALONE COMPLEX, 9.6,https://movie.douban.com/subject/1431615/
+咱们裸熊 第一季 We Bare Bears Season 1, 9.4,https://movie.douban.com/subject/26528597/
+鬼灭之刃 鬼滅の刃, 9.1,https://movie.douban.com/subject/30210221/
+蜡笔小新 クレヨンしんちゃん, 9.3,https://movie.douban.com/subject/1431683/
+日常, 9.4,https://movie.douban.com/subject/4848701/
+越狱兔 第一季 ウサビッチ, 9.2,https://movie.douban.com/subject/2326676/
+怪诞小镇 第一季 Gravity Falls Season 1, 9.5,https://movie.douban.com/subject/6874354/
+团子大家族 第二季 CLANNAD ～AFTER STORY～, 9.5,https://movie.douban.com/subject/3230813/
+棋魂 ヒカルの碁, 9.3,https://movie.douban.com/subject/1474243/
+葫芦兄弟, 9.2,https://movie.douban.com/subject/1428576/
+火影忍者 NARUTO -ナルト-, 9.1,https://movie.douban.com/subject/1427318/
+跃动青春 スキップとローファー, 9.4,https://movie.douban.com/subject/35679677/
+西游记, 9.3,https://movie.douban.com/subject/2156775/
+男子高中生的日常 男子高校生の日常, 9.2,https://movie.douban.com/subject/6894811/
+娜娜 NANA -ナナ-, 9.2,https://movie.douban.com/subject/1794082/
+马男波杰克 第一季 BoJack Horseman Season 1, 9.2,https://movie.douban.com/subject/25900177/
+神厨小福贵, 9.3,https://movie.douban.com/subject/3025311/
+命运之夜前传 第一季 Fate/Zero, 9.2,https://movie.douban.com/subject/5416070/
+犬夜叉, 9.2,https://movie.douban.com/subject/1464448/
+四叠半神话大系 四畳半神話大系, 9.3,https://movie.douban.com/subject/4195678/
+樱桃小丸子 ちびまる子ちゃん, 9.2,https://movie.douban.com/subject/1465037/
+魔卡少女樱 カードキャプターさくら, 9.2,https://movie.douban.com/subject/1465035/
+英雄联盟：双城之战 第一季 Arcane Season 1, 9.0,https://movie.douban.com/subject/34867871/
+四月是你的谎言 四月は君の嘘, 9.1,https://movie.douban.com/subject/25851655/
+反叛的鲁路修 コードギアス 反逆のルルーシュ, 9.1,https://movie.douban.com/subject/2043155/
+鼹鼠的故事 Krtek, 9.4,https://movie.douban.com/subject/2994961/
+伍六七之最强发型师, 9.1,https://movie.douban.com/subject/30371751/
+赛博朋克：边缘行者 Cyberpunk: Edgerunners, 9.0,https://movie.douban.com/subject/35118256/
+秦时明月之诸子百家, 9.4,https://movie.douban.com/subject/4246437/
+精灵宝可梦 ポケットモンスター, 9.2,https://movie.douban.com/subject/2015069/
+搞笑漫画日和 ギャグマンガ日和, 9.2,https://movie.douban.com/subject/2249531/
+浪客剑心 追忆篇 るろうに剣心 -明治剣客浪漫譚- 追憶編, 9.4,https://movie.douban.com/subject/1421721/
+蜂蜜与四叶草 ハチミツとクローバー, 9.3,https://movie.douban.com/subject/1770547/
+妄想代理人, 9.0,https://movie.douban.com/subject/1441053/
+异度侵入 イド：インヴェイデッド ID:INVADED, 9.0,https://movie.douban.com/subject/34456027/
+动物狂想曲 第一季 BEASTARS, 9.0,https://movie.douban.com/subject/30458442/
+大盗贼, 9.3,https://movie.douban.com/subject/1899125/
+一人之下 第二季, 8.9,https://movie.douban.com/subject/27034748/
+哪吒传奇, 9.1,https://movie.douban.com/subject/2156771/
+夏日重现 サマータイムレンダ, 9.0,https://movie.douban.com/subject/35351365/
+间谍过家家 第一季 SPY×FAMILY, 8.9,https://movie.douban.com/subject/35258427/
+紫罗兰永恒花园 ヴァイオレット・エヴァーガーデン, 9.0,https://movie.douban.com/subject/26805209/
+来自深渊 メイドインアビス, 9.1,https://movie.douban.com/subject/26940008/
+拾荒者统治 Scavengers Reign, 9.2,https://movie.douban.com/subject/35932858/
+冰果 氷菓, 9.0,https://movie.douban.com/subject/10001418/
+十二国记 十二国記, 9.2,https://movie.douban.com/subject/1394510/
+轻音少女 けいおん!, 9.1,https://movie.douban.com/subject/3681349/
+青春期猪头少年不做兔女郎学姐的梦 青春ブタ野郎はバニーガール先輩の夢を見ない, 9.0,https://movie.douban.com/subject/30166978/
+魔法少女小圆 魔法少女まどか☆マギカ, 9.0,https://movie.douban.com/subject/5349275/
+工作细胞 はたらく細胞, 8.9,https://movie.douban.com/subject/28514091/
+中国奇谭, 8.7,https://movie.douban.com/subject/35674355/
+雾山五行·犀川幻紫林, 9.2,https://movie.douban.com/subject/35178776/
+万神殿 第一季 Pantheon Season 1, 8.8,https://movie.douban.com/subject/34990593/
+樱兰高校男公关部 桜蘭高校ホスト部, 8.9,https://movie.douban.com/subject/1817253/
+魔道祖师 第一季, 8.8,https://movie.douban.com/subject/27015848/
+我们仍未知道那天所看见的花的名字 あの日見た花の名前を僕達はまだ知らない。, 8.8,https://movie.douban.com/subject/5397537/
+只有我不在的街道 僕だけがいない街, 9.0,https://movie.douban.com/subject/26427106/
+恶魔人 哭泣之子 Devilman: Crybaby, 8.9,https://movie.douban.com/subject/26997470/
+黑猫警长, 8.8,https://movie.douban.com/subject/1860377/

@@ -11,12 +11,13 @@ class Snake:
         # Snake head
         head = turtle.Turtle()
         head.speed(0)
-        head.shape("square")
+        head.shape("triangle")
         head.color("blue")
         head.penup()
         head.goto(0, 0)
         head.direction = "stop"
         self.segments.append(head)
+        self.extend()
 
     def move(self):
         for segment in range(len(self.segments)-1, 0, -1):
@@ -27,18 +28,18 @@ class Snake:
         
         
     # increase the length of the snake
-    def add_segment(self):
+    def add_segment(self,position):
         new_segment = turtle.Turtle()
-        new_segment.speed(0)
         new_segment.shape("square")
         new_segment.color("white")
         new_segment.penup()
+        new_segment.goto(position)
         self.segments.append(new_segment)
         
     def extend(self):
         
-        self.add_segment()
-        self.move()
+        self.add_segment(self.segments[-1].position())
+        
 
     # check if the snake has collided with itself
     def has_collided(self):

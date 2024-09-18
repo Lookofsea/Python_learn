@@ -11,6 +11,7 @@ class Player(Turtle):
         self.shapesize(stretch_wid=5, stretch_len=1)
         self.penup()
         self.goto(position)
+        self.score = 0
 
     def move_up(self):
         new_y = self.ycor() + 20

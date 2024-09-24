@@ -1,19 +1,29 @@
+from turtle import Turtle
 FONT = ("Arial", 20, "bold")
 
-class Scoreboard:
+class Scoreboard(Turtle):
     def __init__(self):
-        self.score = 0
-        self.high_score = 0
+        super().__init__()
+        self.level = 1
+        self.draw_scoreboard(self)
 
-    def update_score(self, score):
-        self.score = score
-        if self.score > self.high_score:
-            self.high_score = self.score
-
-    def draw_scoreboard(self, turtle):
-        turtle.hideturtle()
-        turtle.penup()
-        turtle.goto(-200, 250)
-        turtle.write(f"Score: {self.score}", align="center", font=FONT)
-        turtle.goto(-200, 200)
-        turtle.write(f"High Score: {self.high_score}", align="center", font=FONT)   
+    def draw_scoreboard(self):
+        self.hideturtle()
+        self.penup()
+        self.goto(-200, 250)
+        self.write(f"Level: {self.level}", align="center", font=FONT)
+        
+    def update_scoreboard(self):
+        self.clear()
+        self.draw_scoreboard(self)
+        
+    def increase_level(self):
+        self.level += 1
+        self.update_scoreboard()
+        
+    def game_over(self):
+        self.goto(0,0)
+        self.write("Game Over", align="center", font=FONT)
+        self.goto(0, -20)
+        self.write("Press 'r' to play again", align="center", font=FONT)
+ 

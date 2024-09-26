@@ -16,7 +16,6 @@ player = Player()
 screen.listen()
 screen.onkey(player.move_up, "Up")
 screen.onkey(player.move_down, "Down")
-screen.onkey(restart, "r")
 
 #create car manager
 car_manager = CarManager()
